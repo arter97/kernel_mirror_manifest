@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://git.codelinaro.org/clo/la" name="caf"/>
+  <remote fetch="https://android.googlesource.com" name="google"/>
+  <default remote="caf" revision="master"/>
+
+  <project name="kernel/build"/>
+  <project name="kernel/common"/>
+  <project name="kernel/msm-5.10"/>
+  <project name="kernel_platform/external/dtc"/>
+  <project name="kernel_platform/kernel/prebuilts/mainline/arm64"/>
+  <project name="kernel_platform/prebuilts/build-tools"/>
+  <project name="kernelplatform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"/>
+  <project name="kernelplatform/prebuilts-master/clang/host/linux-x86"/>
+  <project name="kernel_platform/system/tools/mkbootimg"/>
+  <project name="kernel/prebuilts/build-tools"/>
+
+  <project name="kernel/arcvm-modules/common" remote="google"/>
+  <project name="kernel/common-modules/virtual-device" remote="google"/>
+  <project name="kernel/common-patches" remote="google"/>
+  <project name="kernel/configs" remote="google"/>
+  <project name="kernel/devices/google/bluejay" remote="google"/>
+  <project name="kernel/exynos" remote="google"/>
+  <project name="kernel/exynos-modules/config" remote="google"/>
+  <project name="kernel/exynos-modules/devicetree" remote="google"/>
+  <project name="kernel/exynos-modules/drivers" remote="google"/>
+  <project name="kernel/goldfish" remote="google"/>
+  <project name="kernel/google-modules/amplifiers" remote="google"/>
+  <project name="kernel/google-modules/aoc" remote="google"/>
+  <project name="kernel/google-modules/aoc-ipc" remote="google"/>
+  <project name="kernel/google-modules/bluetooth/broadcom" remote="google"/>
+  <project name="kernel/google-modules/bms" remote="google"/>
+  <project name="kernel/google-modules/display" remote="google"/>
+  <project name="kernel/google-modules/edgetpu" remote="google"/>
+  <project name="kernel/google-modules/edgetpu/abrolhos" remote="google"/>
+  <project name="kernel/google-modules/fingerprint/fpc" remote="google"/>
+  <project name="kernel/google-modules/fingerprint/goodix" remote="google"/>
+  <project name="kernel/google-modules/gpu" remote="google"/>
+  <project name="kernel/google-modules/lwis" remote="google"/>
+  <project name="kernel/google-modules/nfc" remote="google"/>
+  <project name="kernel/google-modules/power/reset" remote="google"/>
+  <project name="kernel/google-modules/raviole-device" remote="google"/>
+  <project name="kernel/google-modules/sensors/hall_sensor" remote="google"/>
+  <project name="kernel/google-modules/touch/common" remote="google"/>
+  <project name="kernel/google-modules/touch/fts_touch" remote="google"/>
+  <project name="kernel/google-modules/touch/sec_touch" remote="google"/>
+  <project name="kernel/google-modules/uwb" remote="google"/>
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" remote="google"/>
+  <project name="kernel/gs" remote="google"/>
+  <project name="kernel/hikey-linaro" remote="google"/>
+  <project name="kernel/hikey-modules" remote="google"/>
+  <project name="kernel/msm" remote="google"/>
+  <project name="kernel/msm-extra" remote="google"/>
+  <project name="kernel/msm-extra/camera-devicetree" remote="google"/>
+  <project name="kernel/msm-extra/camera-kernel" remote="google"/>
+  <project name="kernel/msm-extra/dataipa" remote="google"/>
+  <project name="kernel/msm-extra/devicetree" remote="google"/>
+  <project name="kernel/msm-extra/display-devicetree" remote="google"/>
+  <project name="kernel/msm-extra/display-drivers" remote="google"/>
+  <project name="kernel/msm-extra/video-driver" remote="google"/>
+  <project name="kernel/msm-modules/data-kernel" remote="google"/>
+  <project name="kernel/msm-modules/fts_touch" remote="google"/>
+  <project name="kernel/msm-modules/fts_touch_s5" remote="google"/>
+  <project name="kernel/msm-modules/qcacld" remote="google"/>
+  <project name="kernel/msm-modules/qca-wfi-host-cmn" remote="google"/>
+  <project name="kernel/msm-modules/sec_touch" remote="google"/>
+  <project name="kernel/msm-modules/wlan-fw-api" remote="google"/>
+  <project name="kernel/omap" remote="google"/>
+  <project name="kernel/tests" remote="google"/>
+  <project name="kernel/tools/interceptor" remote="google"/>
+  <project name="platform/bionic" remote="google"/>
+  <project name="platform/bootable/libbootloader" remote="google"/>
+  <project name="platform/build" remote="google"/>
+  <project name="platform/build/bazel" remote="google"/>
+  <project name="platform/build/bazel_common_rules" remote="google"/>
+  <project name="platform/build/blueprint" remote="google"/>
+  <project name="platform/build/soong" remote="google"/>
+  <project name="platform/external/arm-trusted-firmware" remote="google"/>
+  <project name="platform/external/avb" remote="google"/>
+  <project name="platform/external/bazelbuild-kotlin-rules" remote="google"/>
+  <project name="platform/external/bazelbuild-rules_android" remote="google"/>
+  <project name="platform/external/bazelbuild-rules_license" remote="google"/>
+  <project name="platform/external/bazel-skylib" remote="google"/>
+  <project name="platform/external/boringssl" remote="google"/>
+  <project name="platform/external/compiler-rt" remote="google"/>
+  <project name="platform/external/dtc" remote="google"/>
+  <project name="platform/external/dwarves" remote="google"/>
+  <project name="platform/external/e2fsprogs" remote="google"/>
+  <project name="platform/external/elfutils" remote="google"/>
+  <project name="platform/external/erofs-utils" remote="google"/>
+  <project name="platform/external/expat" remote="google"/>
+  <project name="platform/external/fec" remote="google"/>
+  <project name="platform/external/fmtlib" remote="google"/>
+  <project name="platform/external/go-cmp" remote="google"/>
+  <project name="platform/external/golang-protobuf" remote="google"/>
+  <project name="platform/external/icu" remote="google"/>
+  <project name="platform/external/kmod" remote="google"/>
+  <project name="platform/external/libabigail" remote="google"/>
+  <project name="platform/external/libbpf" remote="google"/>
+  <project name="platform/external/libcxx" remote="google"/>
+  <project name="platform/external/libcxxabi" remote="google"/>
+  <project name="platform/external/libxml2" remote="google"/>
+  <project name="platform/external/lz4" remote="google"/>
+  <project name="platform/external/open-dice" remote="google"/>
+  <project name="platform/external/pcre" remote="google"/>
+  <project name="platform/external/protobuf" remote="google"/>
+  <project name="platform/external/python/absl-py" remote="google"/>
+  <project name="platform/external/python/cpython2" remote="google"/>
+  <project name="platform/external/python/cpython3" remote="google"/>
+  <project name="platform/external/python/six" remote="google"/>
+  <project name="platform/external/selinux" remote="google"/>
+  <project name="platform/external/sqlite" remote="google"/>
+  <project name="platform/external/squashfs-tools" remote="google"/>
+  <project name="platform/external/stardoc" remote="google"/>
+  <project name="platform/external/starlark-go" remote="google"/>
+  <project name="platform/external/stg" remote="google"/>
+  <project name="platform/external/swig" remote="google"/>
+  <project name="platform/external/u-boot" remote="google"/>
+  <project name="platform/external/zlib" remote="google"/>
+  <project name="platform/prebuilts/bazel/common" remote="google"/>
+  <project name="platform/prebuilts/bazel/darwin-x86_64" remote="google"/>
+  <project name="platform/prebuilts/bazel/linux-x86_64" remote="google"/>
+  <project name="platform/prebuilts/boot-artifacts" remote="google"/>
+  <project name="platform/prebuilts/build-tools" remote="google"/>
+  <project name="platform/prebuilts/clang/host/linux-x86" remote="google"/>
+  <project name="platform/prebuilts/clang-tools" remote="google"/>
+  <project name="platform/prebuilts/gas/linux-x86" remote="google"/>
+  <project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="google"/>
+  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="google"/>
+  <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" remote="google"/>
+  <project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" remote="google"/>
+  <project name="platform/prebuilts/go/linux-x86" remote="google"/>
+  <project name="platform/prebuilts/jdk/jdk11" remote="google"/>
+  <project name="platform/prebuilts/misc" remote="google"/>
+  <project name="platform/prebuilts/ninja/linux-x86" remote="google"/>
+  <project name="platform/system/core" remote="google"/>
+  <project name="platform/system/extras" remote="google"/>
+  <project name="platform/system/libbase" remote="google"/>
+  <project name="platform/system/libufdt" remote="google"/>
+  <project name="platform/system/logging" remote="google"/>
+  <project name="platform/system/security" remote="google"/>
+  <project name="platform/system/tools/aidl" remote="google"/>
+  <project name="platform/system/tools/mkbootimg" remote="google"/>
+  <project name="toolchain/prebuilts/ndk/r23" remote="google"/>
+
+</manifest>
