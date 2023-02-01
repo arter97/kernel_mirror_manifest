@@ -75,6 +75,7 @@
   <project name="platform/build/bazel_common_rules" remote="google"/>
   <project name="platform/build/blueprint" remote="google"/>
   <project name="platform/build/soong" remote="google"/>
+  <project name="platform/external/abseil-cpp" remote="google"/>
   <project name="platform/external/arm-trusted-firmware" remote="google"/>
   <project name="platform/external/avb" remote="google"/>
   <project name="platform/external/bazelbuild-kotlin-rules" remote="google"/>
