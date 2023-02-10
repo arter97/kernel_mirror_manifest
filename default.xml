@@ -95,6 +95,7 @@
   <project name="platform/external/go-cmp" remote="google"/>
   <project name="platform/external/golang-protobuf" remote="google"/>
   <project name="platform/external/icu" remote="google"/>
+  <project name="platform/external/jemalloc_new" remote="google"/>
   <project name="platform/external/kmod" remote="google"/>
   <project name="platform/external/libabigail" remote="google"/>
   <project name="platform/external/libbpf" remote="google"/>
