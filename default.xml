@@ -4,16 +4,26 @@
   <remote fetch="https://android.googlesource.com" name="google"/>
   <default remote="caf" revision="master"/>
 
+  <project name="abl/tianocore/edk2"/>
   <project name="kernel/build"/>
   <project name="kernel/common"/>
   <project name="kernel/msm-5.10"/>
+  <project name="kernel/msm-5.15"/>
+  <project name="kernel_platform/build/bazel_common_rules"/>
+  <project name="kernel_platform/external/bazel-skylib"/>
   <project name="kernel_platform/external/dtc"/>
+  <project name="kernel_platform/external/python/absl-py"/>
+  <project name="kernel_platform/external/stardoc"/>
   <project name="kernel_platform/kernel/prebuilts/mainline/arm64"/>
+  <project name="kernel_platform/prebuilts/bazel/linux-x86_64"/>
   <project name="kernel_platform/prebuilts/build-tools"/>
   <project name="kernelplatform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"/>
+  <project name="kernel_platform/prebuilts/jdk/jdk11"/>
   <project name="kernelplatform/prebuilts-master/clang/host/linux-x86"/>
   <project name="kernel_platform/system/tools/mkbootimg"/>
+  <project name="kernel_platform/toolchain/prebuilts/ndk/r23"/>
   <project name="kernel/prebuilts/build-tools"/>
+  <project name="platform/prebuilts/boot-artifacts"/>
 
   <project name="kernel/arcvm-modules/common" remote="google"/>
   <project name="kernel/common-modules/virtual-device" remote="google"/>
@@ -122,7 +132,6 @@
   <project name="platform/prebuilts/bazel/common" remote="google"/>
   <project name="platform/prebuilts/bazel/darwin-x86_64" remote="google"/>
   <project name="platform/prebuilts/bazel/linux-x86_64" remote="google"/>
-  <project name="platform/prebuilts/boot-artifacts" remote="google"/>
   <project name="platform/prebuilts/build-tools" remote="google"/>
   <project name="platform/prebuilts/clang/host/linux-x86" remote="google"/>
   <project name="platform/prebuilts/clang-tools" remote="google"/>
