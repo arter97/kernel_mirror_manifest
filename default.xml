@@ -112,6 +112,7 @@
   <project name="platform/external/libcxx" remote="google"/>
   <project name="platform/external/libcxxabi" remote="google"/>
   <project name="platform/external/libxml2" remote="google"/>
+  <project name="platform/external/licenseclassifier" remote="google"/>
   <project name="platform/external/lz4" remote="google"/>
   <project name="platform/external/open-dice" remote="google"/>
   <project name="platform/external/pcre" remote="google"/>
@@ -121,6 +122,7 @@
   <project name="platform/external/python/cpython3" remote="google"/>
   <project name="platform/external/python/six" remote="google"/>
   <project name="platform/external/selinux" remote="google"/>
+  <project name="platform/external/spdx-tools" remote="google"/>
   <project name="platform/external/sqlite" remote="google"/>
   <project name="platform/external/squashfs-tools" remote="google"/>
   <project name="platform/external/stardoc" remote="google"/>
