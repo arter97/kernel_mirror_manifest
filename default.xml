@@ -90,6 +90,7 @@
   <project name="platform/external/avb" remote="google"/>
   <project name="platform/external/bazelbuild-kotlin-rules" remote="google"/>
   <project name="platform/external/bazelbuild-rules_android" remote="google"/>
+  <project name="platform/external/bazelbuild-rules_cc" remote="google"/>
   <project name="platform/external/bazelbuild-rules_go" remote="google"/>
   <project name="platform/external/bazelbuild-rules_java" remote="google"/>
   <project name="platform/external/bazelbuild-rules_license" remote="google"/>
