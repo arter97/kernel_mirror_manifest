@@ -25,7 +25,6 @@
   <project name="kernel/prebuilts/build-tools"/>
   <project name="platform/prebuilts/boot-artifacts"/>
 
-  <project name="kernel/arcvm-modules/common" remote="google"/>
   <project name="kernel/common-modules/virtual-device" remote="google"/>
   <project name="kernel/common-patches" remote="google"/>
   <project name="kernel/configs" remote="google"/>
