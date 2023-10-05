@@ -29,6 +29,9 @@
   <project name="kernel/common-patches" remote="google"/>
   <project name="kernel/configs" remote="google"/>
   <project name="kernel/devices/google/bluejay" remote="google"/>
+  <project name="kernel/devices/google/felix" remote="google"/>
+  <project name="kernel/devices/google/lynx" remote="google"/>
+  <project name="kernel/devices/google/tangorpro" remote="google"/>
   <project name="kernel/exynos" remote="google"/>
   <project name="kernel/exynos-modules/config" remote="google"/>
   <project name="kernel/exynos-modules/devicetree" remote="google"/>
@@ -38,23 +41,39 @@
   <project name="kernel/google-modules/aoc" remote="google"/>
   <project name="kernel/google-modules/aoc-ipc" remote="google"/>
   <project name="kernel/google-modules/bluetooth/broadcom" remote="google"/>
+  <project name="kernel/google-modules/bluetooth/qcom" remote="google"/>
+  <project name="kernel/google-modules/bluetooth/synaptics" remote="google"/>
   <project name="kernel/google-modules/bms" remote="google"/>
   <project name="kernel/google-modules/display" remote="google"/>
   <project name="kernel/google-modules/edgetpu" remote="google"/>
   <project name="kernel/google-modules/edgetpu/abrolhos" remote="google"/>
+  <project name="kernel/google-modules/edgetpu/janeiro" remote="google"/>
   <project name="kernel/google-modules/fingerprint/fpc" remote="google"/>
   <project name="kernel/google-modules/fingerprint/goodix" remote="google"/>
   <project name="kernel/google-modules/gpu" remote="google"/>
+  <project name="kernel/google-modules/gxp/gs201" remote="google"/>
   <project name="kernel/google-modules/lwis" remote="google"/>
+  <project name="kernel/google-modules/misc" remote="google"/>
   <project name="kernel/google-modules/nfc" remote="google"/>
   <project name="kernel/google-modules/power/reset" remote="google"/>
   <project name="kernel/google-modules/raviole-device" remote="google"/>
   <project name="kernel/google-modules/sensors/hall_sensor" remote="google"/>
   <project name="kernel/google-modules/touch/common" remote="google"/>
+  <project name="kernel/google-modules/touch/focaltech_touch" remote="google"/>
   <project name="kernel/google-modules/touch/fts_touch" remote="google"/>
+  <project name="kernel/google-modules/touch/goodix_touch" remote="google"/>
+  <project name="kernel/google-modules/touch/himax_touch" remote="google"/>
+  <project name="kernel/google-modules/touch/novatek_touch" remote="google"/>
   <project name="kernel/google-modules/touch/sec_touch" remote="google"/>
+  <project name="kernel/google-modules/touch/synaptics_touch" remote="google"/>
   <project name="kernel/google-modules/uwb" remote="google"/>
+  <project name="kernel/google-modules/uwb-diags" remote="google"/>
+  <project name="kernel/google-modules/video/gchips" remote="google"/>
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" remote="google"/>
+  <project name="kernel/google-modules/wlan/qcom/wcn6740/cnss2" remote="google"/>
+  <project name="kernel/google-modules/wlan/qcom/wcn6740/wlan" remote="google"/>
+  <project name="kernel/google-modules/wlan/syna/dhd43752p" remote="google"/>
+  <project name="kernel/google-modules/wlan/wlan_ptracker" remote="google"/>
   <project name="kernel/gs" remote="google"/>
   <project name="kernel/hikey-linaro" remote="google"/>
   <project name="kernel/hikey-modules" remote="google"/>
