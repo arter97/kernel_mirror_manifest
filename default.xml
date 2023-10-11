@@ -127,6 +127,7 @@
   <project name="platform/external/fmtlib" remote="google"/>
   <project name="platform/external/go-cmp" remote="google"/>
   <project name="platform/external/golang-protobuf" remote="google"/>
+  <project name="platform/external/googletest" remote="google"/>
   <project name="platform/external/icu" remote="google"/>
   <project name="platform/external/jemalloc_new" remote="google"/>
   <project name="platform/external/kmod" remote="google"/>
@@ -144,6 +145,18 @@
   <project name="platform/external/python/cpython2" remote="google"/>
   <project name="platform/external/python/cpython3" remote="google"/>
   <project name="platform/external/python/six" remote="google"/>
+  <project name="platform/external/rust/crates/bitflags" remote="google"/>
+  <project name="platform/external/rust/crates/byteorder" remote="google"/>
+  <project name="platform/external/rust/crates/cfg-if" remote="google"/>
+  <project name="platform/external/rust/crates/crc32fast" remote="google"/>
+  <project name="platform/external/rust/crates/hex" remote="google"/>
+  <project name="platform/external/rust/crates/proc-macro2" remote="google"/>
+  <project name="platform/external/rust/crates/quote" remote="google"/>
+  <project name="platform/external/rust/crates/syn" remote="google"/>
+  <project name="platform/external/rust/crates/tinyjson" remote="google"/>
+  <project name="platform/external/rust/crates/unicode-ident" remote="google"/>
+  <project name="platform/external/rust/crates/zerocopy" remote="google"/>
+  <project name="platform/external/rust/crates/zerocopy-derive" remote="google"/>
   <project name="platform/external/selinux" remote="google"/>
   <project name="platform/external/spdx-tools" remote="google"/>
   <project name="platform/external/sqlite" remote="google"/>
