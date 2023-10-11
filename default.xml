@@ -29,6 +29,7 @@
   <project name="kernel/common-patches" remote="google"/>
   <project name="kernel/configs" remote="google"/>
   <project name="kernel/devices/google/bluejay" remote="google"/>
+  <project name="kernel/devices/google/eos" remote="google"/>
   <project name="kernel/devices/google/felix" remote="google"/>
   <project name="kernel/devices/google/lynx" remote="google"/>
   <project name="kernel/devices/google/tangorpro" remote="google"/>
@@ -54,10 +55,14 @@
   <project name="kernel/google-modules/gxp/gs201" remote="google"/>
   <project name="kernel/google-modules/lwis" remote="google"/>
   <project name="kernel/google-modules/misc" remote="google"/>
+  <project name="kernel/google-modules/nanohub" remote="google"/>
   <project name="kernel/google-modules/nfc" remote="google"/>
   <project name="kernel/google-modules/power/reset" remote="google"/>
   <project name="kernel/google-modules/raviole-device" remote="google"/>
+  <project name="kernel/google-modules/rotary-encoders" remote="google"/>
   <project name="kernel/google-modules/sensors/hall_sensor" remote="google"/>
+  <project name="kernel/google-modules/soc/msm" remote="google"/>
+  <project name="kernel/google-modules/sound/mcu_mic_codec" remote="google"/>
   <project name="kernel/google-modules/touch/common" remote="google"/>
   <project name="kernel/google-modules/touch/focaltech_touch" remote="google"/>
   <project name="kernel/google-modules/touch/fts_touch" remote="google"/>
@@ -79,20 +84,38 @@
   <project name="kernel/hikey-modules" remote="google"/>
   <project name="kernel/msm" remote="google"/>
   <project name="kernel/msm-extra" remote="google"/>
+  <project name="kernel/msm-extra/audio-devicetree" remote="google"/>
+  <project name="kernel/msm-extra/bt-devicetree" remote="google"/>
   <project name="kernel/msm-extra/camera-devicetree" remote="google"/>
   <project name="kernel/msm-extra/camera-kernel" remote="google"/>
+  <project name="kernel/msm-extra/data-devicetree" remote="google"/>
   <project name="kernel/msm-extra/dataipa" remote="google"/>
   <project name="kernel/msm-extra/devicetree" remote="google"/>
   <project name="kernel/msm-extra/display-devicetree" remote="google"/>
   <project name="kernel/msm-extra/display-drivers" remote="google"/>
+  <project name="kernel/msm-extra/graphics-devicetree" remote="google"/>
+  <project name="kernel/msm-extra/mmrm-devicetree" remote="google"/>
+  <project name="kernel/msm-extra/nfc-devicetree" remote="google"/>
+  <project name="kernel/msm-extra/video-devicetree" remote="google"/>
   <project name="kernel/msm-extra/video-driver" remote="google"/>
+  <project name="kernel/msm-extra/wlan-devicetree" remote="google"/>
+  <project name="kernel/msm-modules/bt" remote="google"/>
   <project name="kernel/msm-modules/data-kernel" remote="google"/>
+  <project name="kernel/msm-modules/datarmnet" remote="google"/>
+  <project name="kernel/msm-modules/datarmnet-ext" remote="google"/>
   <project name="kernel/msm-modules/fts_touch" remote="google"/>
   <project name="kernel/msm-modules/fts_touch_s5" remote="google"/>
+  <project name="kernel/msm-modules/graphics" remote="google"/>
+  <project name="kernel/msm-modules/mm" remote="google"/>
+  <project name="kernel/msm-modules/mmrm" remote="google"/>
+  <project name="kernel/msm-modules/modem" remote="google"/>
   <project name="kernel/msm-modules/qcacld" remote="google"/>
   <project name="kernel/msm-modules/qca-wfi-host-cmn" remote="google"/>
   <project name="kernel/msm-modules/sec_touch" remote="google"/>
+  <project name="kernel/msm-modules/securemsm" remote="google"/>
+  <project name="kernel/msm-modules/touch" remote="google"/>
   <project name="kernel/msm-modules/wlan-fw-api" remote="google"/>
+  <project name="kernel/msm-modules/wlan-platform" remote="google"/>
   <project name="kernel/omap" remote="google"/>
   <project name="kernel/tests" remote="google"/>
   <project name="kernel/tools/interceptor" remote="google"/>
