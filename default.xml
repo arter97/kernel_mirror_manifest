@@ -214,6 +214,7 @@
   <project name="platform/system/security" remote="google"/>
   <project name="platform/system/tools/aidl" remote="google"/>
   <project name="platform/system/tools/mkbootimg" remote="google"/>
+  <project name="platform/tools/tradefederation/prebuilts/" remote="google"/>
   <project name="toolchain/prebuilts/ndk/r23" remote="google"/>
 
 </manifest>
