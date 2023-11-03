@@ -32,6 +32,7 @@
   <project name="kernel/devices/google/eos" remote="google"/>
   <project name="kernel/devices/google/felix" remote="google"/>
   <project name="kernel/devices/google/lynx" remote="google"/>
+  <project name="kernel/devices/google/shusky" remote="google"/>
   <project name="kernel/devices/google/tangorpro" remote="google"/>
   <project name="kernel/exynos" remote="google"/>
   <project name="kernel/exynos-modules/config" remote="google"/>
@@ -49,10 +50,14 @@
   <project name="kernel/google-modules/edgetpu" remote="google"/>
   <project name="kernel/google-modules/edgetpu/abrolhos" remote="google"/>
   <project name="kernel/google-modules/edgetpu/janeiro" remote="google"/>
+  <project name="kernel/google-modules/edgetpu/rio" remote="google"/>
   <project name="kernel/google-modules/fingerprint/fpc" remote="google"/>
   <project name="kernel/google-modules/fingerprint/goodix" remote="google"/>
+  <project name="kernel/google-modules/gps/broadcom/bcm47765" remote="google"/>
   <project name="kernel/google-modules/gpu" remote="google"/>
   <project name="kernel/google-modules/gxp/gs201" remote="google"/>
+  <project name="kernel/google-modules/gxp/zuma" remote="google"/>
+  <project name="kernel/google-modules/hdcp/samsung" remote="google"/>
   <project name="kernel/google-modules/lwis" remote="google"/>
   <project name="kernel/google-modules/misc" remote="google"/>
   <project name="kernel/google-modules/nanohub" remote="google"/>
@@ -61,6 +66,7 @@
   <project name="kernel/google-modules/raviole-device" remote="google"/>
   <project name="kernel/google-modules/rotary-encoders" remote="google"/>
   <project name="kernel/google-modules/sensors/hall_sensor" remote="google"/>
+  <project name="kernel/google-modules/soc/gs" remote="google"/>
   <project name="kernel/google-modules/soc/msm" remote="google"/>
   <project name="kernel/google-modules/sound/mcu_mic_codec" remote="google"/>
   <project name="kernel/google-modules/touch/common" remote="google"/>
@@ -71,10 +77,12 @@
   <project name="kernel/google-modules/touch/novatek_touch" remote="google"/>
   <project name="kernel/google-modules/touch/sec_touch" remote="google"/>
   <project name="kernel/google-modules/touch/synaptics_touch" remote="google"/>
+  <project name="kernel/google-modules/trusty" remote="google"/>
   <project name="kernel/google-modules/uwb" remote="google"/>
   <project name="kernel/google-modules/uwb-diags" remote="google"/>
   <project name="kernel/google-modules/video/gchips" remote="google"/>
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" remote="google"/>
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm4398" remote="google"/>
   <project name="kernel/google-modules/wlan/qcom/wcn6740/cnss2" remote="google"/>
   <project name="kernel/google-modules/wlan/qcom/wcn6740/wlan" remote="google"/>
   <project name="kernel/google-modules/wlan/syna/dhd43752p" remote="google"/>
