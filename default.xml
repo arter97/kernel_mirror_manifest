@@ -164,6 +164,8 @@
   <project name="platform/external/kmod" remote="google"/>
   <project name="platform/external/libabigail" remote="google"/>
   <project name="platform/external/libbpf" remote="google"/>
+  <project name="platform/external/libcap" remote="google"/>
+  <project name="platform/external/libcap-ng" remote="google"/>
   <project name="platform/external/libcxx" remote="google"/>
   <project name="platform/external/libcxxabi" remote="google"/>
   <project name="platform/external/libxml2" remote="google"/>
