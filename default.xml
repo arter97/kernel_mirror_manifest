@@ -200,6 +200,7 @@
   <project name="platform/external/swig" remote="google"/>
   <project name="platform/external/u-boot" remote="google"/>
   <project name="platform/external/zlib" remote="google"/>
+  <project name="platform/external/zstd" remote="google"/>
   <project name="platform/prebuilts/asuite" remote="google"/>
   <project name="platform/prebuilts/bazel/common" remote="google"/>
   <project name="platform/prebuilts/bazel/darwin-x86_64" remote="google"/>
