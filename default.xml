@@ -23,6 +23,7 @@
   <project name="kernel_platform/system/tools/mkbootimg"/>
   <project name="kernel_platform/toolchain/prebuilts/ndk/r23"/>
   <project name="kernel/prebuilts/build-tools"/>
+  <project name="kernel/qcom"/>
   <project name="platform/prebuilts/boot-artifacts"/>
 
   <project name="kernel/common-modules/virtual-device" remote="google"/>
