@@ -229,5 +229,6 @@
   <project name="platform/system/tools/mkbootimg" remote="google"/>
   <project name="platform/tools/tradefederation/prebuilts" remote="google"/>
   <project name="toolchain/prebuilts/ndk/r23" remote="google"/>
+  <project name="toolchain/prebuilts/ndk/r26" remote="google"/>
 
 </manifest>
