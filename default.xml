@@ -133,6 +133,7 @@
   <project name="platform/external/bazelbuild-rules_go" remote="google"/>
   <project name="platform/external/bazelbuild-rules_java" remote="google"/>
   <project name="platform/external/bazelbuild-rules_license" remote="google"/>
+  <project name="platform/external/bazelbuild-rules_pkg" remote="google"/>
   <project name="platform/external/bazelbuild-rules_python" remote="google"/>
   <project name="platform/external/bazelbuild-rules_rust" remote="google"/>
   <project name="platform/external/bazel-skylib" remote="google"/>
