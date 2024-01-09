@@ -165,6 +165,7 @@
   <project name="platform/external/lz4" remote="google"/>
   <project name="platform/external/open-dice" remote="google"/>
   <project name="platform/external/pcre" remote="google"/>
+  <project name="platform/external/pigz" remote="google"/>
   <project name="platform/external/protobuf" remote="google"/>
   <project name="platform/external/python/absl-py" remote="google"/>
   <project name="platform/external/python/cpython2" remote="google"/>
@@ -192,6 +193,7 @@
   <project name="platform/external/swig" remote="google"/>
   <project name="platform/external/u-boot" remote="google"/>
   <project name="platform/external/zlib" remote="google"/>
+  <project name="platform/external/zopfli" remote="google"/>
   <project name="platform/external/zstd" remote="google"/>
   <project name="platform/prebuilts/asuite" remote="google"/>
   <project name="platform/prebuilts/bazel/common" remote="google"/>
