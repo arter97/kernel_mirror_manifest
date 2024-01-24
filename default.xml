@@ -128,6 +128,7 @@
   <project name="platform/external/arm-trusted-firmware" remote="google"/>
   <project name="platform/external/avb" remote="google"/>
   <project name="platform/external/bazelbuild-apple_support" remote="google"/>
+  <project name="platform/external/bazelbuild-bazel-central-registry" remote="google"/>
   <project name="platform/external/bazelbuild-kotlin-rules" remote="google"/>
   <project name="platform/external/bazelbuild-platforms" remote="google"/>
   <project name="platform/external/bazelbuild-rules_android" remote="google"/>
