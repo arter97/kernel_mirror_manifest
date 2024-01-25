@@ -38,6 +38,7 @@
   <project name="kernel/exynos-modules/config" remote="google"/>
   <project name="kernel/exynos-modules/devicetree" remote="google"/>
   <project name="kernel/exynos-modules/drivers" remote="google"/>
+  <project name="kernel/goldfish" remote="google"/>
   <project name="kernel/google-modules/amplifiers" remote="google"/>
   <project name="kernel/google-modules/aoc" remote="google"/>
   <project name="kernel/google-modules/aoc-ipc" remote="google"/>
@@ -183,6 +184,7 @@
   <project name="platform/external/rust/crates/syn" remote="google"/>
   <project name="platform/external/rust/crates/tinyjson" remote="google"/>
   <project name="platform/external/rust/crates/unicode-ident" remote="google"/>
+  <project name="platform/external/rust/crates/uuid" remote="google"/>
   <project name="platform/external/rust/crates/zerocopy" remote="google"/>
   <project name="platform/external/rust/crates/zerocopy-derive" remote="google"/>
   <project name="platform/external/selinux" remote="google"/>
