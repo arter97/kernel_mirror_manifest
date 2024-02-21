@@ -169,6 +169,8 @@
   <project name="platform/external/rust/crates/hex" remote="google"/>
   <project name="platform/external/rust/crates/proc-macro2" remote="google"/>
   <project name="platform/external/rust/crates/quote" remote="google"/>
+  <project name="platform/external/rust/crates/spin" remote="google"/>
+  <project name="platform/external/rust/crates/static_assertions" remote="google"/>
   <project name="platform/external/rust/crates/syn" remote="google"/>
   <project name="platform/external/rust/crates/tinyjson" remote="google"/>
   <project name="platform/external/rust/crates/unicode-ident" remote="google"/>
@@ -187,6 +189,8 @@
   <project name="platform/external/zlib" remote="google"/>
   <project name="platform/external/zopfli" remote="google"/>
   <project name="platform/external/zstd" remote="google"/>
+  <project name="platform/hardware/interfaces" remote="google"/>
+  <project name="platform/packages/modules/Virtualization" remote="google"/>
   <project name="platform/prebuilts/asuite" remote="google"/>
   <project name="platform/prebuilts/bazel/common" remote="google"/>
   <project name="platform/prebuilts/bazel/darwin-x86_64" remote="google"/>
