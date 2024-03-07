@@ -29,6 +29,7 @@
   <project name="kernel/common-modules/virtual-device" remote="google"/>
   <project name="kernel/common-patches" remote="google"/>
   <project name="kernel/configs" remote="google"/>
+  <project name="kernel/devices/google/bluejay" remote="google"/>
   <project name="kernel/devices/google/eos" remote="google"/>
   <project name="kernel/devices/google/shusky" remote="google"/>
   <project name="kernel/exynos" remote="google"/>
@@ -44,6 +45,8 @@
   <project name="kernel/google-modules/display" remote="google"/>
   <project name="kernel/google-modules/edgetpu/abrolhos" remote="google"/>
   <project name="kernel/google-modules/edgetpu/rio" remote="google"/>
+  <project name="kernel/google-modules/fingerprint/fpc" remote="google"/>
+  <project name="kernel/google-modules/fingerprint/goodix" remote="google"/>
   <project name="kernel/google-modules/gps/broadcom/bcm47765" remote="google"/>
   <project name="kernel/google-modules/gpu" remote="google"/>
   <project name="kernel/google-modules/gxp/zuma" remote="google"/>
@@ -54,6 +57,7 @@
   <project name="kernel/google-modules/power/reset" remote="google"/>
   <project name="kernel/google-modules/raviole-device" remote="google"/>
   <project name="kernel/google-modules/rotary-encoders" remote="google"/>
+  <project name="kernel/google-modules/sensors/hall_sensor" remote="google"/>
   <project name="kernel/google-modules/soc/gs" remote="google"/>
   <project name="kernel/google-modules/soc/msm" remote="google"/>
   <project name="kernel/google-modules/sound/mcu_mic_codec" remote="google"/>
@@ -68,6 +72,7 @@
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" remote="google"/>
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4398" remote="google"/>
   <project name="kernel/google-modules/wlan/wlan_ptracker" remote="google"/>
+  <project name="kernel/gs" remote="google"/>
   <project name="kernel/hikey-modules" remote="google"/>
   <project name="kernel/msm" remote="google"/>
   <project name="kernel/msm-extra" remote="google"/>
