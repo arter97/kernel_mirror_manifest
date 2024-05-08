@@ -10,6 +10,7 @@
   <project name="kernel/msm-5.10"/>
   <project name="kernel/msm-5.15"/>
   <project name="kernel_platform/build/bazel_common_rules"/>
+  <project name="kernel_platform/external/bazelbuild-rules_rust"/>
   <project name="kernel_platform/external/bazel-skylib"/>
   <project name="kernel_platform/external/dtc"/>
   <project name="kernel_platform/external/python/absl-py"/>
@@ -21,6 +22,7 @@
   <project name="kernelplatform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"/>
   <project name="kernel_platform/prebuilts/jdk/jdk11"/>
   <project name="kernelplatform/prebuilts-master/clang/host/linux-x86"/>
+  <project name="kernel_platform/prebuilts/rust"/>
   <project name="kernel_platform/system/tools/mkbootimg"/>
   <project name="kernel_platform/toolchain/prebuilts/ndk/r23"/>
   <project name="kernel/prebuilts/build-tools"/>
@@ -154,6 +156,7 @@
   <project name="platform/external/starlark-go" remote="google"/>
   <project name="platform/external/stg" remote="google"/>
   <project name="platform/external/swig" remote="google"/>
+  <project name="platform/external/toybox" remote="google"/>
   <project name="platform/external/zlib" remote="google"/>
   <project name="platform/external/zopfli" remote="google"/>
   <project name="platform/external/zstd" remote="google"/>
