@@ -29,6 +29,7 @@
   <project name="kernel/qcom"/>
   <project name="platform/prebuilts/boot-artifacts"/>
 
+  <project name="kernel/common-modules/trusty" remote="google"/>
   <project name="kernel/common-modules/virtual-device" remote="google"/>
   <project name="kernel/common-patches" remote="google"/>
   <project name="kernel/configs" remote="google"/>
@@ -76,11 +77,19 @@
   <project name="kernel/lk" remote="google"/>
   <project name="kernel/msm" remote="google"/>
   <project name="kernel/msm-extra" remote="google"/>
+  <project name="kernel/msm-extra/camera-devicetree" remote="google"/>
+  <project name="kernel/msm-extra/camera-kernel" remote="google"/>
+  <project name="kernel/msm-extra/dataipa" remote="google"/>
+  <project name="kernel/msm-extra/devicetree" remote="google"/>
+  <project name="kernel/msm-extra/display-devicetree" remote="google"/>
+  <project name="kernel/msm-extra/display-drivers" remote="google"/>
+  <project name="kernel/msm-extra/video-driver" remote="google"/>
   <project name="kernel/msm-modules/data-kernel" remote="google"/>
   <project name="kernel/msm-modules/fts_touch" remote="google"/>
   <project name="kernel/msm-modules/fts_touch_s5" remote="google"/>
   <project name="kernel/msm-modules/qcacld" remote="google"/>
   <project name="kernel/msm-modules/qca-wfi-host-cmn" remote="google"/>
+  <project name="kernel/msm-modules/sec_touch" remote="google"/>
   <project name="kernel/msm-modules/wlan-fw-api" remote="google"/>
   <project name="kernel/omap" remote="google"/>
   <project name="kernel/tests" remote="google"/>
