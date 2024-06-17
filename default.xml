@@ -117,6 +117,7 @@
   <project name="platform/external/bazelbuild-rules_pkg" remote="google"/>
   <project name="platform/external/bazelbuild-rules_python" remote="google"/>
   <project name="platform/external/bazelbuild-rules_rust" remote="google"/>
+  <project name="platform/external/bazel-contrib-bazel_features" remote="google"/>
   <project name="platform/external/bazel-skylib" remote="google"/>
   <project name="platform/external/boringssl" remote="google"/>
   <project name="platform/external/compiler-rt" remote="google"/>
