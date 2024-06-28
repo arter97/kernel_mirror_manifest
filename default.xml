@@ -145,6 +145,8 @@
   <project name="platform/external/licenseclassifier" remote="google"/>
   <project name="platform/external/ltp" remote="google"/>
   <project name="platform/external/lz4" remote="google"/>
+  <project name="platform/external/musl" remote="google"/>
+  <project name="platform/external/obstack" remote="google"/>
   <project name="platform/external/open-dice" remote="google"/>
   <project name="platform/external/pcre" remote="google"/>
   <project name="platform/external/pigz" remote="google"/>
