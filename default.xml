@@ -185,6 +185,7 @@
   <project name="platform/external/rust/crates/uuid" remote="google"/>
   <project name="platform/external/rust/crates/zerocopy" remote="google"/>
   <project name="platform/external/rust/crates/zerocopy-derive" remote="google"/>
+  <project name="platform/external/rust/crates/zune-inflate" remote="google"/>
   <project name="platform/external/selinux" remote="google"/>
   <project name="platform/external/spdx-tools" remote="google"/>
   <project name="platform/external/sqlite" remote="google"/>
