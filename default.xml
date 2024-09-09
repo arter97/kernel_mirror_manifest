@@ -166,6 +166,7 @@
   <project name="platform/external/rust/crates/hex" remote="google"/>
   <project name="platform/external/rust/crates/itertools" remote="google"/>
   <project name="platform/external/rust/crates/lazy_static" remote="google"/>
+  <project name="platform/external/rust/crates/lz4_flex" remote="google"/>
   <project name="platform/external/rust/crates/managed" remote="google"/>
   <project name="platform/external/rust/crates/mockall" remote="google"/>
   <project name="platform/external/rust/crates/mockall_derive" remote="google"/>
