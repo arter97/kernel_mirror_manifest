@@ -236,6 +236,7 @@
   <project name="platform/prebuilts/build-tools" remote="google"/>
   <project name="platform/prebuilts/clang/host/linux-x86" remote="google"/>
   <project name="platform/prebuilts/clang-tools" remote="google"/>
+  <project name="platform/prebuilts/fuchsia_sdk" remote="google"/>
   <project name="platform/prebuilts/gas/linux-x86" remote="google"/>
   <project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="google"/>
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="google"/>
