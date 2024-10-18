@@ -224,6 +224,7 @@
   <project name="platform/external/swig" remote="google"/>
   <project name="platform/external/toybox" remote="google"/>
   <project name="platform/external/u-boot" remote="google"/>
+  <project name="platform/external/virtio-media" remote="google"/>
   <project name="platform/external/zlib" remote="google"/>
   <project name="platform/external/zopfli" remote="google"/>
   <project name="platform/external/zstd" remote="google"/>
