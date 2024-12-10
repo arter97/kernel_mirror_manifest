@@ -61,6 +61,7 @@
   <project name="kernel/google-modules/lwis" remote="google"/>
   <project name="kernel/google-modules/nanohub" remote="google"/>
   <project name="kernel/google-modules/nfc" remote="google"/>
+  <project name="kernel/google-modules/power/mitigation" remote="google"/>
   <project name="kernel/google-modules/power/reset" remote="google"/>
   <project name="kernel/google-modules/raviole-device" remote="google"/>
   <project name="kernel/google-modules/rotary-encoders" remote="google"/>
