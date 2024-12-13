@@ -183,6 +183,7 @@
   <project name="platform/external/python/cpython2" remote="google"/>
   <project name="platform/external/python/cpython3" remote="google"/>
   <project name="platform/external/python/six" remote="google"/>
+  <project name="platform/external/rust/android-crates-io" remote="google"/>
   <project name="platform/external/rust/crates/arrayvec" remote="google"/>
   <project name="platform/external/rust/crates/bitflags" remote="google"/>
   <project name="platform/external/rust/crates/byteorder" remote="google"/>
