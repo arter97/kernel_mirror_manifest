@@ -16,6 +16,7 @@
   <project name="kernel_platform/external/python/absl-py"/>
   <project name="kernel_platform/external/stardoc"/>
   <project name="kernel_platform/kernel/prebuilts/mainline/arm64"/>
+  <project name="kernel_platform/prebuilts/asuite"/>
   <project name="kernel_platform/prebuilts/bazel/linux-x86_64"/>
   <project name="kernel_platform/prebuilts/build-tools"/>
   <project name="kernel_platform/prebuilts/clang-tools"/>
@@ -25,6 +26,7 @@
   <project name="kernel_platform/prebuilts/rust"/>
   <project name="kernel_platform/system/tools/mkbootimg"/>
   <project name="kernel_platform/toolchain/prebuilts/ndk/r23"/>
+  <project name="kernel_platform/tools/tradefederation/prebuilts"/>
   <project name="kernel/prebuilts/build-tools"/>
   <project name="kernel/qcom"/>
   <project name="platform/prebuilts/boot-artifacts"/>
