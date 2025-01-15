@@ -31,6 +31,7 @@
   <project name="kernel/qcom"/>
   <project name="platform/prebuilts/boot-artifacts"/>
 
+  <project name="kernel/common-modules/binder" remote="google"/>
   <project name="kernel/common-modules/trusty" remote="google"/>
   <project name="kernel/common-modules/virtual-device" remote="google"/>
   <project name="kernel/common-patches" remote="google"/>
