@@ -188,37 +188,8 @@
   <project name="platform/external/python/cpython3" remote="google"/>
   <project name="platform/external/python/six" remote="google"/>
   <project name="platform/external/rust/android-crates-io" remote="google"/>
-  <project name="platform/external/rust/crates/arrayvec" remote="google"/>
-  <project name="platform/external/rust/crates/bitflags" remote="google"/>
-  <project name="platform/external/rust/crates/byteorder" remote="google"/>
-  <project name="platform/external/rust/crates/cfg-if" remote="google"/>
-  <project name="platform/external/rust/crates/crc32fast" remote="google"/>
-  <project name="platform/external/rust/crates/downcast" remote="google"/>
-  <project name="platform/external/rust/crates/either" remote="google"/>
-  <project name="platform/external/rust/crates/fragile" remote="google"/>
-  <project name="platform/external/rust/crates/hex" remote="google"/>
-  <project name="platform/external/rust/crates/itertools" remote="google"/>
-  <project name="platform/external/rust/crates/lazy_static" remote="google"/>
-  <project name="platform/external/rust/crates/lz4_flex" remote="google"/>
-  <project name="platform/external/rust/crates/managed" remote="google"/>
-  <project name="platform/external/rust/crates/mockall" remote="google"/>
-  <project name="platform/external/rust/crates/mockall_derive" remote="google"/>
-  <project name="platform/external/rust/crates/predicates" remote="google"/>
-  <project name="platform/external/rust/crates/predicates-core" remote="google"/>
-  <project name="platform/external/rust/crates/predicates-tree" remote="google"/>
-  <project name="platform/external/rust/crates/proc-macro2" remote="google"/>
-  <project name="platform/external/rust/crates/quote" remote="google"/>
   <project name="platform/external/rust/crates/smoltcp" remote="google"/>
-  <project name="platform/external/rust/crates/spin" remote="google"/>
-  <project name="platform/external/rust/crates/static_assertions" remote="google"/>
-  <project name="platform/external/rust/crates/syn" remote="google"/>
-  <project name="platform/external/rust/crates/termcolor" remote="google"/>
-  <project name="platform/external/rust/crates/termtree" remote="google"/>
   <project name="platform/external/rust/crates/tinyjson" remote="google"/>
-  <project name="platform/external/rust/crates/unicode-ident" remote="google"/>
-  <project name="platform/external/rust/crates/uuid" remote="google"/>
-  <project name="platform/external/rust/crates/zerocopy" remote="google"/>
-  <project name="platform/external/rust/crates/zerocopy-derive" remote="google"/>
   <project name="platform/external/rust/crates/zune-inflate" remote="google"/>
   <project name="platform/external/selinux" remote="google"/>
   <project name="platform/external/spdx-tools" remote="google"/>
