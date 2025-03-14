@@ -205,7 +205,6 @@
   <project name="platform/external/zopfli" remote="google"/>
   <project name="platform/external/zstd" remote="google"/>
   <project name="platform/hardware/interfaces" remote="google"/>
-  <project name="platform/packages/modules/Virtualization" remote="google"/>
   <project name="platform/prebuilts/asuite" remote="google"/>
   <project name="platform/prebuilts/bazel/common" remote="google"/>
   <project name="platform/prebuilts/bazel/darwin-x86_64" remote="google"/>
