@@ -129,7 +129,6 @@
   <project name="platform/bootable/libbootloader" remote="google"/>
   <project name="platform/bootable/recovery" remote="google"/>
   <project name="platform/build" remote="google"/>
-  <project name="platform/build/bazel" remote="google"/>
   <project name="platform/build/bazel_common_rules" remote="google"/>
   <project name="platform/build/blueprint" remote="google"/>
   <project name="platform/build/soong" remote="google"/>
@@ -138,11 +137,8 @@
   <project name="platform/external/avb" remote="google"/>
   <project name="platform/external/bazelbuild-apple_support" remote="google"/>
   <project name="platform/external/bazelbuild-bazel-central-registry" remote="google"/>
-  <project name="platform/external/bazelbuild-kotlin-rules" remote="google"/>
   <project name="platform/external/bazelbuild-platforms" remote="google"/>
-  <project name="platform/external/bazelbuild-rules_android" remote="google"/>
   <project name="platform/external/bazelbuild-rules_cc" remote="google"/>
-  <project name="platform/external/bazelbuild-rules_go" remote="google"/>
   <project name="platform/external/bazelbuild-rules_java" remote="google"/>
   <project name="platform/external/bazelbuild-rules_license" remote="google"/>
   <project name="platform/external/bazelbuild-rules_pkg" remote="google"/>
@@ -204,10 +200,8 @@
   <project name="platform/external/zlib" remote="google"/>
   <project name="platform/external/zopfli" remote="google"/>
   <project name="platform/external/zstd" remote="google"/>
-  <project name="platform/hardware/interfaces" remote="google"/>
   <project name="platform/prebuilts/asuite" remote="google"/>
   <project name="platform/prebuilts/bazel/common" remote="google"/>
-  <project name="platform/prebuilts/bazel/darwin-x86_64" remote="google"/>
   <project name="platform/prebuilts/bazel/linux-x86_64" remote="google"/>
   <project name="platform/prebuilts/build-tools" remote="google"/>
   <project name="platform/prebuilts/clang/host/linux-x86" remote="google"/>
