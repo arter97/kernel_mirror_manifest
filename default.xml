@@ -7,14 +7,31 @@
   <project name="abl/tianocore/edk2"/>
   <project name="kernel/build"/>
   <project name="kernel/common"/>
+  <project name="kernel/common-modules/trusty"/>
   <project name="kernel/msm-5.10"/>
   <project name="kernel/msm-5.15"/>
   <project name="kernel_platform/build/bazel_common_rules"/>
+  <project name="kernel_platform/external/bazelbuild-apple_support"/>
+  <project name="kernel_platform/external/bazelbuild-bazel-central-registry"/>
+  <project name="kernel_platform/external/bazelbuild-platforms"/>
+  <project name="kernel_platform/external/bazelbuild-rules_cc"/>
+  <project name="kernel_platform/external/bazelbuild-rules_java"/>
+  <project name="kernel_platform/external/bazelbuild-rules_license"/>
+  <project name="kernel_platform/external/bazelbuild-rules_pkg"/>
+  <project name="kernel_platform/external/bazelbuild-rules_python"/>
   <project name="kernel_platform/external/bazelbuild-rules_rust"/>
   <project name="kernel_platform/external/bazel-skylib"/>
   <project name="kernel_platform/external/dtc"/>
+  <project name="kernel_platform/external/libcap"/>
+  <project name="kernel_platform/external/libcap-ng"/>
+  <project name="kernel_platform/external/lz4"/>
+  <project name="kernel_platform/external/pigz"/>
   <project name="kernel_platform/external/python/absl-py"/>
   <project name="kernel_platform/external/stardoc"/>
+  <project name="kernel_platform/external/toybox"/>
+  <project name="kernel_platform/external/virtio-media"/>
+  <project name="kernel_platform/external/zlib"/>
+  <project name="kernel_platform/external/zopfli"/>
   <project name="kernel_platform/kernel/prebuilts/mainline/arm64"/>
   <project name="kernel_platform/prebuilts/asuite"/>
   <project name="kernel_platform/prebuilts/bazel/linux-x86_64"/>
@@ -26,13 +43,14 @@
   <project name="kernel_platform/prebuilts/rust"/>
   <project name="kernel_platform/system/tools/mkbootimg"/>
   <project name="kernel_platform/toolchain/prebuilts/ndk/r23"/>
+  <project name="kernel_platform/toolchain/prebuilts/ndk/r26"/>
   <project name="kernel_platform/tools/tradefederation/prebuilts"/>
   <project name="kernel/prebuilts/build-tools"/>
   <project name="kernel/qcom"/>
   <project name="platform/prebuilts/boot-artifacts"/>
+  <project name="platform/vendor/qcom-opensource/devicetree"/>
 
   <project name="kernel/common-modules/binder" remote="google"/>
-  <project name="kernel/common-modules/trusty" remote="google"/>
   <project name="kernel/common-modules/virtual-device" remote="google"/>
   <project name="kernel/common-patches" remote="google"/>
   <project name="kernel/configs" remote="google"/>
