@@ -165,6 +165,7 @@
   <project name="platform/external/bazelbuild-rules_rust" remote="google"/>
   <project name="platform/external/bazelbuild-rules_shell" remote="google"/>
   <project name="platform/external/bazel-contrib-bazel_features" remote="google"/>
+  <project name="platform/external/bazel-contrib-rules_devicetree" remote="google"/>
   <project name="platform/external/bazel-skylib" remote="google"/>
   <project name="platform/external/boringssl" remote="google"/>
   <project name="platform/external/compiler-rt" remote="google"/>
