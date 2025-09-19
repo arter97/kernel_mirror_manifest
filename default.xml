@@ -252,5 +252,6 @@
   <project name="toolchain/pgo-profiles" remote="google"/>
   <project name="toolchain/prebuilts/ndk/r23" remote="google"/>
   <project name="toolchain/prebuilts/ndk/r26" remote="google"/>
+  <project name="toolchain/prebuilts/ndk/r27" remote="google"/>
 
 </manifest>
