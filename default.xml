@@ -25,6 +25,7 @@
   <project name="kernel_platform/external/libcap"/>
   <project name="kernel_platform/external/libcap-ng"/>
   <project name="kernel_platform/external/lz4"/>
+  <project name="kernel_platform/external/openssl"/>
   <project name="kernel_platform/external/pigz"/>
   <project name="kernel_platform/external/python/absl-py"/>
   <project name="kernel_platform/external/stardoc"/>
