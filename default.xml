@@ -240,6 +240,7 @@
   <project name="platform/prebuilts/misc" remote="google"/>
   <project name="platform/prebuilts/ninja/linux-x86" remote="google"/>
   <project name="platform/prebuilts/rust" remote="google"/>
+  <project name="platform/prebuilts/rust-toolchain/linux-x86" remote="google"/>
   <project name="platform/system/core" remote="google"/>
   <project name="platform/system/extras" remote="google"/>
   <project name="platform/system/libbase" remote="google"/>
